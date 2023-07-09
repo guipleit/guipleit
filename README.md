@@ -1,4 +1,4 @@
-# Hard skills:
+# Dev stack:
 
 <div align="center">
   <div align="center">Tools</div>

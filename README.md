@@ -16,6 +16,7 @@
   <img src='https://img.shields.io/badge/React-002160?style=for-the-badge&logo=react&logoColor=61DAFB' alt='REACT'>
   <img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white' alt='Redux'>
   <img src='https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red' alt='RTL'>
+  <img src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white' alt='ANGULAR'>
   <br />
   <br />
   <div align="center">Back-End</div>
